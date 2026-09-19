@@ -1,3 +1,3 @@
-# UWFE Blink LED
+# UWFE Electrical Onboarding 2027
 
-The onboarding project for the UWFE electrical subteam.
+My onboarding project for the electrical team at University of Waterloo Formula Electric (UWFE).
